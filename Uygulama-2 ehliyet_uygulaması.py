@@ -1,4 +1,4 @@
-yas=int(input("UYaşınızı giriniz: "))
+yas=int(input("Yaşınızı giriniz: "))
 if yas>=18:
      print("Ehliyet alabilirsin")
      print("Araban var mı?")
